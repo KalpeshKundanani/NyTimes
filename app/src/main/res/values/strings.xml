@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NyTimes</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="ny_times_api_key">VNeIDVdZOei31zFkre8HGyTmIxKvEu7o</string>
+    <string name="ny_times_base_url">https://api.nytimes.com/</string>
+    <string name="label_one_day">1 Day</string>
+    <string name="label_seven_days">7 Days</string>
+    <string name="label_thirty_days">30 Days</string>
+    <string name="error_title_network_error">Network Error</string>
+    <string name="error_message_not_able_to_load_feeds">Not able to load feeds</string>
+    <string name="button_label_cancel">Cancel</string>
+    <string name="loading_layout_message">Loading Please Wait...</string>
+    <string name="label_search">Search</string>
+</resources>
